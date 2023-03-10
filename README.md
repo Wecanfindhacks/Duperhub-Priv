@@ -1,2 +1,4 @@
-# Duperhub-Priv
-Any attempts to get through this code will result in a global blacklist through all of my scripts, and many other.
+
+# Duperhub Private
+# Any attempts to deobfusucate or bypass our HWID system will result in a permanent HWID and user ban from this script, and any other scripts I make.
+# By using this script, you agree to the TOS of our script. Failing to follow our TOS will result in your whitelist being removed.
